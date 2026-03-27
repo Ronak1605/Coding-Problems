@@ -1,5 +1,5 @@
 # Coding Problems
-This repository is for storing and showing the Coding problems I have solved in my free-time. Each file represents a 
+This repository is for storing and showing the coding problems I have solved in my free-time. Each file represents a 
 problem solved. Each file will contain the problem description, solution code, my thought process while solving the problem, and test
 cases (if applicable). 
 
